@@ -1,0 +1,2 @@
+print("Hello world!)
+i guess that's python but this is a text file anyway
